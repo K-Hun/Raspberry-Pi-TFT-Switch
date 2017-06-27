@@ -5,8 +5,12 @@ Instructions are according to this article : http://appdictive.dk/blog/projects/
 to use this program, first build a jar file then :
 
 # for switching to tft mode :
+```
 java -jar "PiTftSwitch.jar" tft
+```
 
 
 # for rolling back the configuration :
+```
 java -jar "PiTftSwitch.jar" default
+```
